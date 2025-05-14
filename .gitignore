@@ -1,0 +1,11 @@
+# Ignore CMake build output
+build/
+*.exe
+
+# CLion & IntelliJ IDEA
+.idea/
+*.iml
+.idea
+# OS or editor-specific
+.DS_Store
+Thumbs.db
