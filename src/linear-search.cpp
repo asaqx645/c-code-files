@@ -20,16 +20,7 @@ int linearSearch(vector<int>&v, int key, int i ){
 
 
 int main() {
-//    vector <string> best_buy = {
-//            "desktop",
-//            "phones",
-//            "headphones",
-//            "monitor",
-//            "mouse"
-//    };
     vector <int> v = {1, 2, 3, 4, 5, 8, 9, 11};
-
-//    string key = "monitor";
     int key = 8;
     int i = linearSearch(v, key, 0);
     if (i != 1){
