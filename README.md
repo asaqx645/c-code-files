@@ -5,3 +5,4 @@ c++ files and framework to run files with cmakelists.txt
 * linear search
 * huffman compression
 * binary search
+* fractional knapsack greedy algorithm
